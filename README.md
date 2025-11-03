@@ -1,1 +1,3 @@
-# recipe-search-app-lovaco
+# Recipe Search Application
+
+Created by: Lo baco
